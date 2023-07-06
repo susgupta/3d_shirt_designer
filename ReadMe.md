@@ -19,4 +19,4 @@ The application was publised using [GitHub Pages](https://pages.github.com/). In
 
 Here is link to view the application:
 
-[Sushil G Design 3D Portfolio Site](https://susgupta.github.io/3d_shirt_designer/)
+[Sushil G Design 3D Shirt Designer Site](https://susgupta.github.io/3d_shirt_designer/)
